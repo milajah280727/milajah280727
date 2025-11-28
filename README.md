@@ -1,6 +1,6 @@
 # 💫 About Me:
 💻 I'm a **Software Engineer student** passionate about **web development, software engineering, and mobile apps**  
-🚀 Currently learning **Laravel, TailwindCSS, Codeigniter ESP32 IoT Projects Dart, and Flutter Mobile**  
+🚀 Currently learning **Laravel, TailwindCSS, CodeIgniter ESP32 IoT Projects Dart, and Flutter Mobile**  
 ✨ Always excited to explore new technologies and collaborate on cool projects  
 
 ---
